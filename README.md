@@ -1,10 +1,11 @@
-### Hi there 👋
+### hi, i'm kaitlyn (she/her)
+
+ - currently taking cs50 online and grade 11 courses in Canada
+ - my discord is willow#3777
+ - i like music alot
+ - not working on anything yet :(
 
 <!--
-**kaitwillows/kaitwillows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
