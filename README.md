@@ -1,11 +1,9 @@
 ### hi, i'm kaitlyn (she/her)
 
- - i'm canadian
- - i'm in grade 11 swchs
- - my discord is willow#3777
- - i like enjoying/writing music alot
- - not really working on anything yet :(
- - i'm always open to talk, even if you have nothing to say
+ - canadian
+ - discord: willow#3777
+ - grade 11 swchs
+ - always open to talk, even if you have nothing to say
 
 <!--
 - 🔭 I’m currently working on ...
