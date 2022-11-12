@@ -1,9 +1,11 @@
 ### hi, i'm kaitlyn (she/her)
 
- - currently taking cs50 online and grade 11 courses in Canada
+ - i'm canadian
+ - i'm in grade 11 swchs
  - my discord is willow#3777
- - i like music alot
- - not working on anything yet :(
+ - i like enjoying/writing music alot
+ - not really working on anything yet :(
+ - i'm always open to talk, even if you have nothing to say
 
 <!--
 - 🔭 I’m currently working on ...
