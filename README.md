@@ -3,7 +3,6 @@
  - canadian
  - discord: willow#3777
  - grade 11 swchs
- - open to talk
 
 <!--
 - 🔭 I’m currently working on ...
