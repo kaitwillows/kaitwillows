@@ -1,8 +1,4 @@
-### hi, i'm kaitlyn (she/her)
-
- - canadian
- - discord: willow#3777
- - grade 11 swchs
+### uh
 
 <!--
 - 🔭 I’m currently working on ...
